@@ -1,0 +1,15 @@
+C:\Users\Baris\source\repos\AngularBlogCoreAPI\AngularBlog.Repository\obj\Debug\net6.0\AngularBlog.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Baris\source\repos\AngularBlogCoreAPI\AngularBlog.Repository\obj\Debug\net6.0\AngularBlog.Repository.AssemblyInfoInputs.cache
+C:\Users\Baris\source\repos\AngularBlogCoreAPI\AngularBlog.Repository\obj\Debug\net6.0\AngularBlog.Repository.AssemblyInfo.cs
+C:\Users\Baris\source\repos\AngularBlogCoreAPI\AngularBlog.Repository\obj\Debug\net6.0\AngularBlog.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Baris\source\repos\AngularBlogCoreAPI\AngularBlog.Repository\obj\Debug\net6.0\AngularBlog.Repository.csproj.AssemblyReference.cache
+C:\Users\Baris\source\repos\AngularBlogCoreAPI\AngularBlog.Repository\bin\Debug\net6.0\AngularBlog.Repository.deps.json
+C:\Users\Baris\source\repos\AngularBlogCoreAPI\AngularBlog.Repository\bin\Debug\net6.0\AngularBlog.Repository.dll
+C:\Users\Baris\source\repos\AngularBlogCoreAPI\AngularBlog.Repository\bin\Debug\net6.0\AngularBlog.Repository.pdb
+C:\Users\Baris\source\repos\AngularBlogCoreAPI\AngularBlog.Repository\bin\Debug\net6.0\AngularBlog.Core.dll
+C:\Users\Baris\source\repos\AngularBlogCoreAPI\AngularBlog.Repository\bin\Debug\net6.0\AngularBlog.Core.pdb
+C:\Users\Baris\source\repos\AngularBlogCoreAPI\AngularBlog.Repository\obj\Debug\net6.0\AngularBlog.Repository.csproj.CopyComplete
+C:\Users\Baris\source\repos\AngularBlogCoreAPI\AngularBlog.Repository\obj\Debug\net6.0\AngularBlog.Repository.dll
+C:\Users\Baris\source\repos\AngularBlogCoreAPI\AngularBlog.Repository\obj\Debug\net6.0\refint\AngularBlog.Repository.dll
+C:\Users\Baris\source\repos\AngularBlogCoreAPI\AngularBlog.Repository\obj\Debug\net6.0\AngularBlog.Repository.pdb
+C:\Users\Baris\source\repos\AngularBlogCoreAPI\AngularBlog.Repository\obj\Debug\net6.0\ref\AngularBlog.Repository.dll
